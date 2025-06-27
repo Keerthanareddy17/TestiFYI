@@ -21,7 +21,7 @@ TestiFYI lets you upload videos, audios, text notes, and even scanned images —
 
 This project draws inspiration from the incredible work by the folks at [**Code Four**](https://codefour.us)....... a groundbreaking platform that’s revolutionizing how cops handle digital evidence. Their tool auto-generates reports, summarizes videos in real-time, and reduces desk-time for officers by up to 60%. If you haven’t seen their launch post, [check it out here](https://www.ycombinator.com/companies/code-four). It’s 🔥.
 
-**TestiFYI** is a smaller, simplified take on what CodeFour is building — with a focus on linking insights across multiple evidence sources and enabling case-level reasoning through LLMs.......all built using open source and free-tier resources! ✌️
+**TestiFYI** is a smaller, simplified take on what CodeFour is building, with a focus on linking insights across multiple evidence sources and enabling case-level reasoning through LLMs.......all built using open source and free-tier resources! ✌️
 
 ---
 
