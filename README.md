@@ -9,7 +9,7 @@ Your AI-Powered Evidence Copilot
 
 Imagine being an officer juggling body-cam footage, audio clips, witness statements, and scribbled reports.......all while the clock’s ticking on paperwork and investigations. It’s chaotic, exhausting, and inefficient.
 
-**TestiFYI** steps in as your AI-powered case co-pilot. It’s a multi-modal, multi-source investigation assistant built to:  
+**TestiFYI** steps in as your AI-powered case co-pilot. It’s a multi-source investigation assistant built to:  
 🎯 *To make sense of scattered evidence and help law enforcement focus more on the field, not the filing cabinet.*
 
 TestiFYI lets you upload videos, audios, text notes, and even scanned images — and intelligently processes them to:
