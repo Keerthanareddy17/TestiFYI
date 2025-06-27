@@ -67,6 +67,11 @@ This project draws inspiration from the incredible work by the folks at [**Code 
   - `video_to_audio.py` — Converts video files to `WAV` audio for transcription
  
 ---
+## Flow 🌱
+
+<img width="647" alt="Screenshot 2025-06-27 at 18 20 59" src="https://github.com/user-attachments/assets/da6bd442-890a-4be4-882e-29df5d275984" />
+
+---
 
 ## ⚙️ Getting Started
 
