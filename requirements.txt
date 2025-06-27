@@ -1,0 +1,10 @@
+openai 
+moviepy 
+pydub 
+streamlit
+pyannote.audio
+torchaudio
+PyMuPDF
+pytesseract
+pillow
+groq
