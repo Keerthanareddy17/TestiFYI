@@ -151,7 +151,7 @@ Upload any combination of supported evidence files:
 
 feel free to reach out! 🤝
 
-I'm always up for talking tech, feedback, collaborations, or even weird LLM behavior stories. 
+I'm always up for talking tech, feedback, collaborations, weird LLM behavior stories 😮‍💨
 
 - 📬 **Email:** [katasanikeerthanareddy@gmail.com](mailto:katasanikeerthanareddy@gmail.com)  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/keerthana-reddy-katasani-b07238268/)
