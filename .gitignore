@@ -1,0 +1,6 @@
+env
+.env
+main.py
+temp.wav
+data
+src/__pycache__
